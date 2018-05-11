@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+
+div {
+	text-align: center;
+}
+
+.theList {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+button {
+	font-family: inherit;
+}
+
+.delbtn {
+	background: none;
+	border: none;
+	font-size: inherit;
+	font-family: inherit;
+}
